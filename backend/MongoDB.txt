@@ -1,0 +1,13 @@
+Connecting to MongoDB Server
+	open cmd
+	type mongosh----> then enter
+
+Show all databases:
+	show dbs
+
+use todolist
+
+show collections
+
+db.tasks.find()
+db.users.find()
